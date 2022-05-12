@@ -16,7 +16,7 @@ Trình sinh test cho một bài toán để up lên trình chấm tự động o
 
 1. Cài trình biên dịch cho **C++**, có thể dùng luôn cái đi kèm với **CodeBlock** hoặc **Themis** cũng được.
 2. Thêm đường dẫn đến **mingw** vào biến môi trường **PATH** để có thể gọi lệnh **g++** ở bất kì đâu.
-3. Tải trình nén tệp, VD [http://gnuwin32.sourceforge.net/packages/zip.htm](zip)
+3. Tải trình nén tệp, VD [zip](http://gnuwin32.sourceforge.net/packages/zip.htm)
 
 ## Các tệp kết quả
 
