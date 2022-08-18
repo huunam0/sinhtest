@@ -23,5 +23,8 @@ Trình sinh test cho một bài toán để up lên trình chấm tự động o
 + **tests.zip** gồm input và cả output để upload ngay lên oj.vnoi.info
 + **inputonly.zip** chỉ gồm riêng input, để upload lên CF 
 
+[Video HD](https://www.youtube.com/watch?v=vyTOUv92PQM)
+
+
 ---------------
 by Tran Huu Nam - huunam0[at]gmail.com - 2022
