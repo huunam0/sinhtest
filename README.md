@@ -25,6 +25,12 @@ Trình sinh test cho một bài toán để up lên trình chấm tự động o
 
 [Video HD](https://www.youtube.com/watch?v=vyTOUv92PQM)
 
+## Sinh test cho themis
+Để sinh test cho Themis, bạn sửa đổi như sau:
++ Mở tệp all.bat bằng notepad và xoá dòng 8 đi (chỉ làm 1 lần);
++ Mở cửa sổ Command Prompt tại thư mục sinhtest;
++ Chạy lệnh "thn2Themis.bat mabai";
++ Chạy lệnh xoa.bat để xoá các tệp input, output.
 
 ---------------
 by Tran Huu Nam - huunam0[at]gmail.com - 2022
