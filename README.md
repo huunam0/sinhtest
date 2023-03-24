@@ -1,9 +1,9 @@
 # SINHTEST v1.1
-Trình sinh test cho một bài toán để up lên trình chấm tự động oj.vnoi.info hoặc cho Themis
+Trình sinh test cho một bài toán để up lên trình chấm tự động dmoj / oj.vnoi.info hoặc cho Themis
 
 ## Chuẩn bị ban đầu
 
-1. Cài trình biên dịch cho **C++**, có thể dùng luôn cái đi kèm với [CodeBlock](https://drive.google.com/file/d/19jk4zx5ZBlLcmLPqW_0ZfHbAPZWd2VIO/view?usp=sharing) hoặc [Themis](https://drive.google.com/file/d/1Zz3uXuTtG51N579zSmhtqWslgI82x8pH/view?usp=sharing) cũng được.
+1. Cài trình biên dịch cho **C++**, có thể dùng luôn cái đi kèm với [CodeBlock](https://drive.google.com/file/d/19jk4zx5ZBlLcmLPqW_0ZfHbAPZWd2VIO/view) hoặc [Themis](https://drive.google.com/file/d/1Zz3uXuTtG51N579zSmhtqWslgI82x8pH/view) cũng được.
 2. Thêm đường dẫn đến **mingw** vào biến môi trường **PATH** để có thể gọi lệnh **g++** ở bất kì đâu.
 3. Tải trình nén tệp, VD [zip](http://gnuwin32.sourceforge.net/packages/zip.htm)
 
